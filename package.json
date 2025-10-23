@@ -1,0 +1,16 @@
+{
+  "name": "opal-content-creation-crew",
+  "version": "1.0.0",
+  "description": "Opal Tools bundle (Node.js) \u2014 Content Creation Crew",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev --listen 3000"
+  },
+  "dependencies": {
+    "@optimizely-opal/opal-tools-sdk": "^0.1.0",
+    "zod": "^3.23.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
